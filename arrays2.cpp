@@ -1,3 +1,4 @@
+//shresht23070123077
 #include <iostream>
 using namespace std;
 
@@ -16,3 +17,14 @@ cout<<arr[i]<<endl;
 }
 return 0;
 }
+
+
+Enter the number of elements:
+3
+Enter the elements of the array
+2 3 4
+Array elements are:
+2
+3
+4
+
