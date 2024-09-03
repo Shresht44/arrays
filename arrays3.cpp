@@ -1,3 +1,4 @@
+//shresht23070123077
 #include <iostream>
 using namespace std;
 
@@ -15,3 +16,13 @@ cout<<numbers[n]<<endl;
 
 return 0;
 }
+
+
+Enter 5 numbers
+4 5 6 7 8
+The num are:
+4
+5
+6
+7
+8
