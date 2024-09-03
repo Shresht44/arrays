@@ -34,3 +34,21 @@ cout<<"Key is not found"<<endl;
 }
 return 0;
 }
+
+
+
+Please Enter size
+3
+Please Enter Numbers:
+3 4 5
+Please Enter Numbers:
+Please Enter Numbers:
+Please Enter Number To be checked
+4
+Key is not found
+Key is founded at
+Key is not found
+
+--------------------------------
+Process exited after 7.915 seconds with return value 0
+Press any key to continue . . .
